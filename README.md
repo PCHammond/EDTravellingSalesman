@@ -1,2 +1,2 @@
 # EDTravellingSalesman
-Approximate travelling salesman problem using TSA designed for Elite Dangerous.
+Approximate travelling salesman problem solver using TSA designed for Elite Dangerous.
